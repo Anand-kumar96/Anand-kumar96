@@ -43,9 +43,6 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 <a href="https://github.com/Anand-kumar96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-kumar96&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
-
 <div width="100%" align="center"><a href="https://github.com/Anand-kumar96/Newton-School-2022-may-batch-Advance-Batch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anand-kumar96&repo=Newton-School-2022-may-batch-Advance-Batch&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Anand-kumar96/Dsa-Daily-Sheet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anand-kumar96&repo=Dsa-Daily-Sheet&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/Anand-kumar96/Newton-School-2022-may-batch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anand-kumar96&repo=Newton-School-2022-may-batch&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/Anand-kumar96/Newton-School-2022-may-batch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anand-kumar96&repo=Newton-School-2022-may-batch&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a>
