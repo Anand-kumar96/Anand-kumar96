@@ -40,7 +40,7 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 
 <a href="http://www.github.com/Anand-kumar96"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anand-kumar96&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Anand-kumar96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-kumar96&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/Anand-kumar96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-kumar96&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <b>Top Repositories</b>
 
