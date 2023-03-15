@@ -6,7 +6,7 @@ A passionate full stack developer from India
 
 Strong in web development with intuitive problem solving skills . A Passionate Front-end Developer who is seeking to find the opportunity to work in a challenging environment that will encourage me to improve and learn new and necessary skills in order to be able to assist the company in achieving its mission and goals.
 
-* 🌍  I'm based in I'm based in India
+* 🌍  I'm based in India
 * ✉️  You can contact me at anandaryan542@gmail.com
 * 🧠  I'm learning React Js and Node Js.
 * 🤝  I'm open to collaborating on Full Stack Web Developement
