@@ -46,4 +46,4 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 <div width="100%" align="center"><a href="https://github.com/Anand-kumar96/Newton-School-2022-may-batch-Advance-Batch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anand-kumar96&repo=Newton-School-2022-may-batch-Advance-Batch&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
 <a href="https://github.com/Anand-kumar96/Newton-School-2022-may-batch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anand-kumar96&repo=Newton-School-2022-may-batch&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a>
-<a href="https://anand-aryan.gitbook.io/leetcode/" align="left"><img align="right" width="45%" src="https://anand-aryan.gitbook.io/leetcode/" /></a>
+<a href="https://anand-aryan.gitbook.io/leetcode/" align="left"><img align="right" width="45%" src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4" /></a>
