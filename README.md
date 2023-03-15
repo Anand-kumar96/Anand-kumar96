@@ -30,6 +30,7 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Anand-kumar96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/re_born_01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anand-kumar96/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -43,7 +44,7 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 <a href="https://github.com/Anand-kumar96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-kumar96&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-###GitBook
+### GitBook
 <a href="https://anand-aryan.gitbook.io/leetcode/" align="left"><img align="right"  width="40px" height="30px" src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4" /></a>
 
 
