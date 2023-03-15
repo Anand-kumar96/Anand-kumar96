@@ -6,13 +6,12 @@ Full Stack Web Developer
 
 Strong in web development with intuitive problem solving skills . A Passionate Front-end Developer who is seeking to find the opportunity to work in a challenging environment that will encourage me to improve and learn new and necessary skills in order to be able to assist the company in achieving its mission and goals.
 
-* 🌍  I'm based in I'm based in India
-* ✉️  You can contact me at [anandaryan542@gmail.com](mailto: anandaryan542@gmail.com)
-* 🧠  I'm learning React Js and Node Js.
-* 🤝  I'm open to collaborating on Full Stack Web Developement
+* 🌍  I'm based in I'm based in India
+* ✉️  You can contact me at [anandaryan542@gmail.com](mailto: anandaryan542@gmail.com)
+* 🧠  I'm learning React Js and Node Js.
+* 🤝  I'm open to collaborating on Full Stack Web Developement
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -28,11 +27,9 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Anand-kumar96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/re_born_01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anand-kumar96/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
