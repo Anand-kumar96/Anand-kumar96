@@ -39,9 +39,6 @@ Strong in web development with intuitive problem solving skills . A Passionate F
 
 <a href="http://www.github.com/Anand-kumar96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand-kumar96&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Anand-kumar96"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anand-kumar96&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 ### GitBook
 * <a href="https://anand-aryan.gitbook.io/leetcode/" align="left"><img align="left"  width="40px" height="30px" src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4" />Leetcode Solution</a>
 
