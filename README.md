@@ -8,7 +8,7 @@ I'm a passionate frontend and backend developer with experience in Html, Css and
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at anandaryan542@gmail.com
-* 🧠  I'm learning React Js and Node Js.
+* 🧠  I'm learning flutter.
 * 🤝  I'm open to collaborating on Full Stack Web Developement
 
 ### Skills
