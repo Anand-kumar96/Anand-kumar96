@@ -21,8 +21,8 @@ I'm a passionate frontend and backend developer with experience in Html, Css and
 
 #### :fire: My Stats :
 
-<a href="https://github.com/anand-kumar96"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar96&theme=light&count_private=true&layout=compact" width="205" height="120" alt="Anand's most used languages"/></a>
-<a href="https://github.com/anand-kumar96"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-kumar96&show_icons=true&theme=light" width="350" height="120" alt="Anand's github stats"/></a>
+<a href="https://github.com/anand-kumar96"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar96&theme=light&count_private=true&layout=compact" width="205" height="130" alt="Anand's most used languages"/></a>
+<a href="https://github.com/anand-kumar96"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-kumar96&show_icons=true&theme=light" width="350" height="130" alt="Anand's github stats"/></a>
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
