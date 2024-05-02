@@ -10,9 +10,6 @@
     <a href="https://www.geeksforgeeks.org/user/anandkraryan/">
       <img src="https://img.shields.io/badge/Geeksforgeeks-blue?style=for-the-badge&logo=Geeksforgeeks&logoColor=white%22%20alt=%22Geeksforgeeks%20Badge" alt="Geeksforgeeks Badge"/>
     </a>
-    <a href="https://www.instagram.com/re_born_01/">
-      <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
   </div>
 </div>
 
