@@ -14,7 +14,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I'm a passionate frontend and backend developer with experience in Html, Css and JavaScript,Flutter and expertise in frameworks like React, Node.js.I'm a quick learner who is seeking to find the opportunity to work in a challenging environment that will encourage me to improve and learn new and necessary skills. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hyderabad.
+I'm a passionate frontend and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> backend developer with experience in Html, Css and JavaScript,Flutter and expertise in frameworks like React, Node.js.I'm a quick learner who is seeking to find the opportunity to work in a challenging environment that will encourage me to improve and learn new and necessary skills.
 - I’m working as a Software developer Enginner and building large scale web applications.
 - I'm learning AWS.
 - I'm open to collaborating on Full Stack Web Developement.
