@@ -21,33 +21,54 @@ I'm a passionate frontend and backend developer with experience in Html, Css and
 
 #### :fire: My Stats :
 
-<a href="https://github.com/anand-kumar96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar96&theme=light&count_private=true&layout=compact" width="205" height="120" alt="Anand's most used languages" /></a>
-<a href="https://github.com/anand-kumar96">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-kumar96&show_icons=true&theme=light" width="350" height="120" alt="Anand's github stats"/>
-</a>
+<a href="https://github.com/anand-kumar96"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar96&theme=light&count_private=true&layout=compact" width="205" height="120" alt="Anand's most used languages"/></a>
+  
+<a href="https://github.com/anand-kumar96"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-kumar96&show_icons=true&theme=light" width="350" height="120" alt="Anand's github stats"/></a>
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
-   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;</a>
+ <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/></a>
 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+
+ <a href="https://www.w3.org/TR/CSS/#css">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/></a>
+ 
+ <a href="https://dart.dev/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart" width="40" height="40"/></a>
+
+ <a href="https://reactjs.org/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+   
+ <a href="https://redux.js.org/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux " width="40" height="40"/></a>
+
+ <a href="https://nodejs.org/en/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
+
+ <a href="https://expressjs.com/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="=Express" width="40" height="40"/></a>
+ 
+ <a href="https://www.mongodb.com/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb" width="40" height="40"/></a>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="=Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite"  alt="Sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <a href="https://www.oracle.com/in/database/sqldeveloper/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="Sql" width="40" height="40"/></a>
+ 
+ <a href="https://www.postgresql.org/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+ 
+ <a href="https://www.sqlite.org/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" width="40" height="40"/></a>
+ 
+ <a href="https://flutter.dev/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+
+ <a href="https://git-scm.com/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
 </div>
 
